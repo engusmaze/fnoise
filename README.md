@@ -7,7 +7,7 @@
 Use `zig fetch` command to save the library's URL and its hash to a `build.zig.zon` file.
 
 ```sh
-zig fetch --save https://github.com/engusmaze/fnoise/archive/bd438da0b45b8979399d2ac7158cf9b933db6f1f.tar.gz
+zig fetch --save https://github.com/engusmaze/fnoise/archive/ae9e42d42fd5195ee8e1aee9a063185e47cdfb64.tar.gz
 ```
 
 ### Adding the Dependency:
